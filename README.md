@@ -1,2 +1,2 @@
 # pySimpleCalculator
-simple pyqt5 simulating a simply calculator
+pyqt5 app simulating a simple calculator
